@@ -2,6 +2,14 @@
 
 I'm Gonzalo Tello Valenzuela, a Quality Automation Engineer (QE) with 3 years of experience on the Informatic Science fields. I'm 29 years old, and I live in Santiago, Chile. This is my repository with different crazy ideas to develop my jobs, using different tools with the objective to join a little more the informatic Science with the daily routine.
 
+As Quality Automation Engineer, I must be neccessary learn about different tools to develop the test. Here is some of my known tools
+- Cucumber (Using Java and Python with Behave)
+- Pytest
+- Jmeter
+- Cypress
+- Unitest
+  
+
 <!--
 **gtello79/gtello79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
