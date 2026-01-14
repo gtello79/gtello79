@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gonzalo Tello Valenzuela, a Quality Automation Engineer (QE) with 3 years of experience on the Informatic Science fields. I'm 29 years old, and I live in Santiago, Chile. This is my repository with different crazy ideas to develop my jobs, using different tools with the objective to join a little more the informatic Science with the daily routine.
+I'm Gonzalo Tello Valenzuela, a Quality Automation Engineer (QE) with 3 years of experience on the Informatic Science fields. I'm 30 years old, and I live in Santiago, Chile. This is my repository with different crazy ideas to develop my jobs, using different tools with the objective to join a little more the informatic Science with the daily routine.
 
 As Quality Automation Engineer, I must be neccessary learn about different tools to develop the test. Here is some of my known tools
 - Cucumber (Using Java and Python with Behave)
@@ -8,6 +8,11 @@ As Quality Automation Engineer, I must be neccessary learn about different tools
 - Jmeter
 - Cypress
 - Unitest
+- Playwright
+- Selenium
+- Etc, etc
+
+Fell free to contact me to ask me or show your interest in some work related to my projects. I'm open to learn new skills and innovate in the tech field 
   
 
 <!--
